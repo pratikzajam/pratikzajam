@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikzajam
 - 👀 I’m interested in ... programmming , travelling
-- 🌱 I’m currently learning ...web development
+- 🌱 I’m currently learning ...Laravel
 
 
 <!---
