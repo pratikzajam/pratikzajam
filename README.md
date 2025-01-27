@@ -1,19 +1,19 @@
-### Hi there, I'm Pratik 👋
+# Hi there, I'm Pratik 👋
 
-- 🔭 I’m currently diving into **Express.js** as I expand my backend development skills.
-- 🌱 Constantly learning and exploring the world of programming and tech.
-- 💼 Open to exciting opportunities where I can contribute and grow.
-- ✈️ Outside of coding, I have a passion for **traveling** and discovering new places!
+- 🔭 **Currently Exploring**: Deepening my knowledge in **Express.js** to level up my backend development skills.
+- 🌱 **Always Learning**: Continuously exploring the vast world of programming and technology.
+- 💼 **Open to Opportunities**: Seeking roles where I can contribute, collaborate, and grow as a developer.
+- ✈️ **Beyond Coding**: Passionate about **traveling** and discovering new horizons.
 
 ---
 
-### Technologies I Work With:
+## 🛠️ Technologies I Work With
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
     <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="40"/>
@@ -21,9 +21,18 @@
 
 ---
 
-✨ **GitHub is where I document my journey in tech and learning. Feel free to connect or check out my projects!** ✨
+## ✨ My GitHub Journey
 
-<!---
-pratikzajam/pratikzajam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ **GitHub is where I document my learning and growth in tech.**  
+Feel free to connect with me or explore my projects to see what I’m building and experimenting with!
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/pratikzajam)  
+- [Portfolio](https://pratikzajam.github.io/)  
+
+---
+
+💡 **Fun Fact**: When I’m not coding, I’m likely planning my next adventure or exploring a new destination!
