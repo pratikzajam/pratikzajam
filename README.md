@@ -21,6 +21,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pratikzajam&show_icons=true&theme=radical" alt="Pratik's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikzajam&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ## ✨ My GitHub Journey
 
 ✨ **GitHub is where I document my learning and growth in tech.**  
