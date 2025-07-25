@@ -39,7 +39,7 @@ Feel free to connect with me or explore my projects to see what I’m building a
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pratikzajam)  
+- [LinkedIn](https://www.linkedin.com/in/pratik-zajam)  
 - [Portfolio](https://personal-portfolio-chi-eosin.vercel.app/) 
 
 ---
